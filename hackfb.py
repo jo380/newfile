@@ -1,6 +1,6 @@
 #decompiled by PDM31
 import os, sys
-print '\x1b[1;32mMasukan ID: Borot dan Password: indoxploit untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
+print '\x1b[1;32mMasukan ID: jons dan Password: jo untuk Login dan jangan lupa login facebook di OperaMini dulu sebelum login agar tidak CekPoint'
 print '\x1b[1;32mSilahkan Login '
 import os, sys
 
@@ -16,7 +16,7 @@ def restart():
 user = raw_input('ID: ')
 import getpass
 sandi = raw_input('Password: ')
-if sandi == 'indoxploit' and user == 'Borot':
+if sandi == 'jo' and user == 'jons':
     print 'Anda Telah Login'
     sys.exit
 else:
